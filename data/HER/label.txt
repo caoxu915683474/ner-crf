@@ -1,0 +1,9 @@
+_UNK
+ack
+hello
+infor
+inform
+modify
+negate
+other
+reset
